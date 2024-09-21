@@ -1,4 +1,4 @@
-#A simple calculator with Additional Choices by Pranta Biswas
+#A simple calculator with Additional Features by Pranta Biswas
 
 # Making functions to take multiple Integers or Floats as input 
 # from the user and calculates their selected operation
