@@ -4,3 +4,4 @@ This Calculator Includes:
 1) 4 Modes Operation: Addition, Subtraction, Multiplication, Division
 2) Only 1 Mode can be used one at a time
 3) It can calculate as many numbers as user wishes
+4) It can calculate the numbers either in Integer or Float
